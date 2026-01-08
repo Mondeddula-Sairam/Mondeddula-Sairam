@@ -28,9 +28,9 @@
 
 ## 📂 Featured Projects
 
-- 💰 [**Online Quiz System**](https://github.com/Mondeddula-Sairam/Web_Technology_2025/tree/main/Online%20Quiz%20System) –Online Quiz System for conducting and evaluating quizzes.
-- 🏦 [**Movie Recommendation System**](https://github.com/Mondeddula-Sairam/AIML-LABS/blob/main/MOVIE%20RECOMMENDATION%20SYSTEM%20..pdf) –Movie Recommendation System for recommendations.
-- 🧬 [**Stock Exchange System **](https://github.com/Mondeddula-Sairam/Stock-Exchange-Project/blob/main/stockexchange_project.pdf) – Stock Exchange System for trading simulations.
+- 📝 [**Online Quiz System**](https://github.com/Mondeddula-Sairam/Web_Technology_2025/tree/main/Online%20Quiz%20System) –Online Quiz System for conducting and evaluating quizzes.
+- 🎬 [**Movie Recommendation System**](https://github.com/Mondeddula-Sairam/AIML-LABS/blob/main/MOVIE%20RECOMMENDATION%20SYSTEM%20..pdf) –Movie Recommendation System for recommendations.
+- 📈[**Stock Exchange System**](https://github.com/Mondeddula-Sairam/Stock-Exchange-Project/blob/main/stockexchange_project.pdf) – Stock Exchange System for trading simulations.
 
 ---
 
